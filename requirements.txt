@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+openai
+chromadb
+PyMuPDF
+docx2txt
+requests
+python-dotenv
